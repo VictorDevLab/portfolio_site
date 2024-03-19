@@ -26,12 +26,12 @@ function Contact() {
                <textarea
                   name="message"
                   placeholder="Message"
-                  rows="10"
+                  rows="4"
                   className="p-2 mb-4 bg-transparent border-2 rounded-md focus:outline-none"
                />
                <button
                   type="button"
-                  className="text-center inline-block px-8 py-3 w-max text-base font-medium rounded-md text-white bg-gradient-to-r from-yellow-500 to-pink-500 drop-shadow-md hover:stroke-white"
+                  className="text-center inline-block px-8 py-3 w-max text-base font-medium rounded-md text-white bg-gradient-to-r from-blue-500 to-blue-800 drop-shadow-md hover:stroke-white"
                >
                   Work With Me
                </button>

@@ -2,25 +2,25 @@ export default [
   {
     title: "Admin Dashboard",
     imgUrl: "/assets/admin.jpeg",
-    stack: ["HTML", "CSS", "JavaScript"],
-    link: "https://fkcodes.com",
+    stack: ["React", "Sass", "TypeScript", "Vite"],
+    link: "https://admin-dashboard-dusky-two.vercel.app/",
   },
   {
     title: "Infinite Studios",
     imgUrl: "/assets/infinite.jpeg",
-    stack: ["React", "Tailwind", "Vite"],
-    link: "https://thehackershideout.com",
+    stack: ["React", "JavaScript", "css", "Docker"],
+    link: "https://infinite-moment-studios.vercel.app/",
   },
   {
     title: "Movie application",
     imgUrl: "/assets/movie.jpeg",
-    stack: ["Python", "C++", "Robotics"],
-    link: "https://youtu.be/A8eegxL82PI",
+    stack: ["React", "OMDB api", "Firebase"],
+    link: "https://react-movie-app-77290.web.app/",
   },
   {
     title: "Landing Page",
     imgUrl: "/assets/global.jpeg",
-    stack: ["Python", "C++", "Robotics"],
-    link: "https://youtu.be/A8eegxL82PI",
+    stack: ["Html", "SaSS", "JavaScript"],
+    link: "https://victordevlab.github.io/global_consultancy/",
   },
 ];

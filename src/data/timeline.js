@@ -4,7 +4,7 @@ export default [
     title: "Front-End Developer - Nathan Digital",
     duration: "present",
     details:
-      "As a Front-End Developer at Nathan Digital, I create and maintain responsive user interfaces for SaaS-based ERP systems. I work with cross-functional teams to design and implement features using React and Vue.js frameworks. I focus on optimizing performance, ensuring high-quality standards through testing and code reviews, and continuously improving our development processes.",
+      "As a Front-End Developer at Nathan Digital, I create and maintain dynamic responsive user interfaces for SaaS-based ERP systems. I work with cross-functional teams to design and implement features using React and Vue.js frameworks. I focus on optimizing performance, ensuring high-quality standards through testing and code reviews, and continuously improving our development processes.",
   },
   {
     year: "2022",

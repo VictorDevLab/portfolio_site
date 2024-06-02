@@ -9,7 +9,7 @@ export default [
   {
     year: "2022",
     title: "Solo Developer",
-    duration: "2023",
+    duration: "2022 - 2023",
     details:
       "Embraced the challenge of solo development. Proactively reaching out to small businesses and offering web development solutions to help them establish their online presence. ",
   },
